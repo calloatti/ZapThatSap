@@ -4,11 +4,6 @@
   "Id": "Calloatti.ZapThatSap",
   "MinimumGameVersion": "1.0.12.5",
   "Description": "Hides the visible sap drops on Pine trees while keeping them tappable.",
-  "RequiredMods": [
-    {
-      "Id": "Harmony",
-      "MinVersion": "2.4.1"
-    }
-  ],
+  "RequiredMods": [{"Id": "Harmony", "MinVersion": "2.4.1"}],
   "OptionalMods": []
 }
